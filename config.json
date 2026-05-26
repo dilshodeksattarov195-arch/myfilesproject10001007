@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersave",
+        "uuid": 4037063,
+        "checksum": "d3rpo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
